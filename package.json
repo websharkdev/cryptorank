@@ -1,0 +1,15 @@
+{
+  "name": "cryptorank-telegram",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "hono": "^4.7.5",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "vercel": "^32.4.1"
+  }
+}
